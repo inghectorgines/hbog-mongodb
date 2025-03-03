@@ -1,0 +1,4 @@
+use ("utt_hbog_store")
+
+
+db.products.find()
